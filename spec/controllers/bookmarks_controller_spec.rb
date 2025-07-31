@@ -72,7 +72,7 @@ if defined?(BookmarksController)
 else
   describe "BookmarksController" do
     it "should exist" do
-      expect(defined?(BookmarksController)).to eq(true)
+      expect(defined?(Bookmarks)).to eq(true)
     end
   end
 end
