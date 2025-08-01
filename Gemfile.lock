@@ -86,7 +86,7 @@ GEM
     add (0.3.2)
     autoprefixer-rails (10.4.19.0)
       execjs (~> 2)
-    base64 (0.2.0)
+    base64 (0.3.0)
     bigdecimal (3.1.8)
     bindex (0.8.1)
     bootsnap (1.18.4)
@@ -323,7 +323,7 @@ PLATFORMS
 DEPENDENCIES
   add (~> 0.3.2)
   autoprefixer-rails
-  base64 (~> 0.2.0)
+  base64 (~> 0.3.0)
   bigdecimal (~> 3.1)
   bootsnap
   bootstrap (~> 5.2)
